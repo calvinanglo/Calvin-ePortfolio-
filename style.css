@@ -102,33 +102,6 @@ nav.sticky .media-icons a {
     color: #FFF;
 }
 
-
-/* Navigation Menu Button CSS */
-
-nav .menu-btn,
-.navbar .menu .cancel-btn {
-    position: absolute;
-    color: #fff;
-    right: 30px;
-    top: 20px;
-    font-size: 20px;
-    cursor: pointer;
-    display: none;
-}
-
-nav .menu-btn {
-    color: #d1d3d6;
-}
-
-nav.sticky .menu-btn {
-    color: #FFF;
-}
-
-.navbar .menu .menu-btn {
-    color: #fff;
-}
-
-
 /* Home Section */
 
 .home {
